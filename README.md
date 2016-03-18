@@ -1,26 +1,5 @@
-# CSS Styling Code Along
+# CSS Styling
 
-## Objectives
+<iframe width="640" height="480" src="//www.youtube.com/embed/aA8k-hK8qzg?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=aA8k-hK8qzg">CSS Styling</a></p>
 
-1. Review link in an external CSS file.
-2. Review writing selectors.
-3. Styling text content.
-
-## Introduction
-
-In this code along exercise we will be adding style to our pages by linking an external CSS file.
-
-## Steps
-
-1. Fork this repository.
-2. Clone your fork.
-3. cd into the folder for this lab.
-4. Code along with the included video below.
-
-<iframe width="100%" height="720" src="//www.youtube.com/embed/aA8k-hK8qzg?rel=0&amp;controls=1&amp;showinfo=1" frameborder="0" allowfullscreen></iframe></iframe>
-
-5. type the `learn` command in Terminal to run local test builds.
-6. Stage, commit, and push up your changes.
-7. Make a pull request.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling' title='CSS Styling'>CSS Styling</a> on Learn.co and start learning to code for free.</p>
+Fork and clone this repo to download all of the starter code for the codealong!
